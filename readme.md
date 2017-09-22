@@ -20,4 +20,5 @@ $
 * [Rob Schmuecker’s Block 7880033](http://bl.ocks.org/robschmuecker/7880033)
 * [Mike Bostock’s Blocks](https://bl.ocks.org/mbostock)
 * [jQuery](https://jquery.com/)
-* [Color Hash](https://github.com/zenozeng/color-hash)
+* [ColorHash-zenozeng](https://github.com/zenozeng/color-hash)
+* [SHA256-geraintluff](https://github.com/geraintluff/sha256)
